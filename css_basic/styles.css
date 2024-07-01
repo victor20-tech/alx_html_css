@@ -1,7 +1,14 @@
 body {
     display: flex;
     flex-direction: column;
+    background-color: #ecf0f1;
 }
+
+header{
+    background-color: #34495e;
+    
+}
+
 
 main {
     display: flex;
@@ -17,8 +24,15 @@ article {
 aside {
     flex: 1;
     overflow-y: auto;
-<<<<<<< HEAD
 }
-=======
+
+a{
+    color: #2ecc71;
 }
->>>>>>> b6e419074c79876c1d33a33874ea9eccc4ddf877
+a:hover{
+    color: #e74c3c;
+}
+
+footer {
+    background-color: #34495e;
+}

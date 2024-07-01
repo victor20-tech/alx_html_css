@@ -1,7 +1,11 @@
 body {
     display: flex;
     flex-direction: column;
+<<<<<<< HEAD
     background-color: #ecf0f1;
+=======
+    
+>>>>>>> da2e6d41041ce5201550f23371d525b988be6f45
 }
 
 header{
@@ -25,6 +29,7 @@ aside {
     flex: 1;
     overflow-y: auto;
 }
+<<<<<<< HEAD
 
 a{
     color: #2ecc71;
@@ -36,3 +41,5 @@ a:hover{
 footer {
     background-color: #34495e;
 }
+=======
+>>>>>>> da2e6d41041ce5201550f23371d525b988be6f45

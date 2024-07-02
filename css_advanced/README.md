@@ -35,7 +35,7 @@ Profiles of smile experts and their achievements.
 Free membership with access to selected tutorials.
 Responsive design for seamless viewing on different devices.
 
-_________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________git
 
 CONTRIBUTING
 ##############
